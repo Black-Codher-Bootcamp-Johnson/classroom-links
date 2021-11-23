@@ -9,8 +9,8 @@ All your cohort session and assignment links will be listed below. This document
 
 ### Session 1
 
-- [Instructions](https://github.com/black-codher-bootcamp-2021-johnson/session-1-task/blob/main/README.md)
-- [Project Board](https://github.com/black-codher-bootcamp-2021-johnson/session-1-task/projects/1)
+- [Instructions](https://github.com/black-codher-bootcamp-johnson/session-1-task/blob/main/README.md)
+- [Project Board](https://github.com/black-codher-bootcamp-johnson/session-1-task/projects/1)
 
 ### Session 4 - Homework
 
