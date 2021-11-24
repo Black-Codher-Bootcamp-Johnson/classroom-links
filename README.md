@@ -30,8 +30,6 @@ Assessment Due Date: 12 Dec 2021 ![1f4e3](https://user-images.githubusercontent.
 
 ## Unit 2 HTML and CSS
 
-### Assessment
-
 - For your unit assessment you are required to follow the instructions found in the `README.MD` of GitHub Classroom generated repository.
 - You will first need to accept the assessment in [GitHub Classroom](https://classroom.github.com/a/TrcGNv1B) and then clone the assignment repository to your machine. 
 - We require you to submit the URL for your assignment repository in the [HTML and CSS: Unit Assessment Quiz](https://learning.blackcodher.tech/courses/frontend-developer/lessons/html-and-css/quizzes/html-and-css-unit-assessment/) on Black Codher Learning once you have completed the assessment.
