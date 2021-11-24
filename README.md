@@ -25,6 +25,23 @@ Click [here](https://classroom.github.com/a/bUegOtDS) to accept the homework on 
 - We require you to submit the URL for your assignment repository in the [Introduction to Software Development: Unit Assessment quiz](https://learning.blackcodher.tech/courses/full-stack-developer/lessons/introduction-to-software-development-command-line-and-git/quizzes/introduction-to-software-development-unit-assessment/) on Black Codher Learning once you have completed the assessment.
 
 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965831-fa544f7d-2529-4b13-a8f7-ab988dd1db35.png)
-Assessment Due Date: 16 Jan 2022 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965840-4dae6c75-045b-4b0d-9bb6-3b1b8795a3d2.png)
+Assessment Due Date: 12 Dec 2021 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965840-4dae6c75-045b-4b0d-9bb6-3b1b8795a3d2.png)
 
 ## Unit 2 HTML and CSS
+
+### Assessment
+
+- For your unit assessment you are required to follow the instructions found in the `README.MD` of GitHub Classroom generated repository.
+- You will first need to accept the assessment in [GitHub Classroom](https://classroom.github.com/a/TrcGNv1B) and then clone the assignment repository to your machine. 
+- We require you to submit the URL for your assignment repository in the [HTML and CSS: Unit Assessment Quiz](https://learning.blackcodher.tech/courses/full-stack-developer/lessons/html-and-css/quizzes/html-and-css-unit-assessment/) on Black Codher Learning once you have completed the assessment.
+
+![1f4e3](https://user-images.githubusercontent.com/11095605/138965831-fa544f7d-2529-4b13-a8f7-ab988dd1db35.png)
+Assessment Due Date: 16 Jan 2022 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965840-4dae6c75-045b-4b0d-9bb6-3b1b8795a3d2.png)
+
+## Unit 3 JavaScript Group Assignment
+
+[TBA]
+
+## Unit 4 React Group Assignment
+
+[TBA]
