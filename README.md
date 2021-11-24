@@ -15,13 +15,13 @@ All your cohort session and assignment links will be listed below. This document
 ### Session 4 - Homework
 
 You will be using Github Classroom to submit your homework and assessments
-Click [here](#) to accept the homework on Github Classroom and go through the following homework to learn about the fundamentals of Git & GitHub:
+Click [here](https://classroom.github.com/a/bUegOtDS) to accept the homework on Github Classroom and go through the following homework to learn about the fundamentals of Git & GitHub:
 
 
 ### Assessment
 
 - For your unit assessment you are required to follow the instructions found in the `README.MD` of GitHub Classroom generated repository.
-- You will first need to accept the assessment in [GitHub Classroom](#) and then clone the assignment repository to your machine. 
+- You will first need to accept the assessment in [GitHub Classroom](https://classroom.github.com/a/ayZ3Z3IE) and then clone the assignment repository to your machine. 
 - We require you to submit the URL for your assignment repository in the [Introduction to Software Development: Unit Assessment quiz](https://learning.blackcodher.tech/courses/full-stack-developer/lessons/introduction-to-software-development-command-line-and-git/quizzes/introduction-to-software-development-unit-assessment/) on Black Codher Learning once you have completed the assessment.
 
 ![1f4e3](https://user-images.githubusercontent.com/11095605/138965831-fa544f7d-2529-4b13-a8f7-ab988dd1db35.png)
